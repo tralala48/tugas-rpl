@@ -1,6 +1,6 @@
 # Tugas RPL - Analsis Kebutuhan (Fungsi) dalam Aplikasi KRS Online
 
-Anggota: Eka Putra (@eputra), Gian Mengantara (@tralala48)
+Anggota: Eka Putra ([@eputra](https://github.com/eputra)), Gian Mengantara ([@tralala48](https://github.com/tralala48))
 
 Kelompok kami disini mencoba menganalisis kebutuhan (fungsi) apa saja yang harus ada didalam aplikasi KRS online yang terintegrasi dengan sistem bank.
 
